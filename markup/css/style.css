@@ -1,0 +1,125 @@
+.tariq {
+    border: 60px solid black;
+    height: 100vh;
+}
+body {
+    padding: 0%;
+    margin: 0%;
+    height: 100vh;
+}
+.center {
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 15px;
+    list-style: none;
+}
+.logo {
+    display: flex;
+    display: inline-block;
+    margin-left: 70px;
+}
+.l {
+    font-size: 12px;
+    display: flex;
+    display: inline-block;
+    margin-left: 500px;
+}
+.li {
+    font-size: 12px;
+    display: flex;
+    display: inline-block;
+    margin-left: 50px;
+}
+.lis {
+    font-size: 12px;
+    display: flex;
+    display: inline-block;
+    margin-left: 50px;
+}
+.cart {
+    font-size: 12px;
+    display: flex;
+    display: inline-block;
+    margin-left: 600px;
+}
+li:hover {
+    cursor: pointer;
+    opacity: 0.6;
+}
+.row {
+    list-style: none;
+    margin-top: 60px;
+    display: flex;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+}
+.coloum {
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.c {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    opacity: 0.6;
+    margin-left: 70px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    opacity: 0.6;
+}
+.co {
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 200px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.col {
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 800px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.colo {
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    opacity: 0.6;
+}
+.colou {
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    opacity: 0.6;
+}
+.cato {
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+input[type=checkbox] + label {
+    margin: 20px;
+    display: block;
+    cursor: pointer;
+}
+input[type=checkbox] {
+    display: none;
+}
+input[type=checkbox] + label:before {
+    content: "\2714";
+    border: 1px solid gray;
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    padding: 1px 1px 1px 1px;
+    vertical-align: bottom;
+    color: transparent;
+}
+input[type=checkbox]:checked + label:before {
+    color: gray;
+
+}
+label {
+    margin-left: 20px;
+}
