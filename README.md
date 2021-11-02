@@ -5,10 +5,10 @@
 
 ### `Terminal Commands`
 
-ls
-cd ..
-cd /Volumne
-cd "My Works"
+ls /
+cd .. /
+cd /Volumne /
+cd "My Works" /
 
 
 ### `Git Commands`
