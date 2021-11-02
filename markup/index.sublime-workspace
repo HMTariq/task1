@@ -1,0 +1,538 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"on",
+				"onblur\tAttr"
+			],
+			[
+				"c",
+				"cusTime"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"ge",
+				"geolocation"
+			],
+			[
+				"n",
+				"navigator"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"l",
+				"latitude"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"dis",
+				"disount"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"table",
+				"table-header"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"b",
+				"bgColor"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"Html",
+				"HTML5"
+			],
+			[
+				"J",
+				"Javascript"
+			],
+			[
+				"na",
+				"names"
+			],
+			[
+				"sear",
+				"searchResult"
+			],
+			[
+				"sea",
+				"searchResult"
+			],
+			[
+				"joh",
+				"johnBills"
+			],
+			[
+				"jo",
+				"johnTipFinal"
+			],
+			[
+				"jon",
+				"johnVisit"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"i",
+				"initial\tpointer-events"
+			],
+			[
+				"po",
+				"pointer-events\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"s",
+				"secondNumber"
+			],
+			[
+				"click",
+				"clickStatus"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"sele",
+				"selectDefaultValue"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"jquery",
+				"jquery-ui"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"h",
+				"hidden\toverflow"
+			],
+			[
+				"video",
+				"Videography"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"custo",
+				"custom-headings"
+			],
+			[
+				"pro",
+				"problem-image1"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"a",
+				"About"
+			],
+			[
+				"TabNine",
+				"Set Syntax: Bourne Again Shell (bash)"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 137.0,
+		"history":
+		[
+			"cls",
+			"clear",
+			"dir"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/Data/PROJECTZ/karate-kid/src/components/App.js",
+		"/Volumes/Data/PROJECTZ/karate-kid/src/components/pages/home.js",
+		"/Volumes/Data/PROJECTZ/karate-kid/src/components/layout/Header.js",
+		"/Volumes/Data/PROJECTZ/karate-kid/src/components/menu/main-nav.js",
+		"/Volumes/Data/PROJECTZ/karate-kid/src/styles/generic.scss",
+		"/Volumes/Data/PROJECTZ/karate-kid/src/index.js",
+		"/Volumes/Data/PROJECTZ/karate-kid/src/styles/custom.scss",
+		"/Volumes/Data/PROJECTZ/karate-kid/src/styles/footer.scss",
+		"/Volumes/Data/PROJECTZ/karate-kid/src/styles/header.scss",
+		"/Users/codezcracker/Desktop/Sundus/tags.html",
+		"/Volumes/Data/PROJECTZ/test/index.js",
+		"/Volumes/Data/PROJECTZ/karate-kid/README.md",
+		"/Volumes/Data/PROJECTZ/karate-kid/public/index.html",
+		"/Volumes/Data/PROJECTZ/TensorFlow/RealTimeObjectDetectionTFJSReact/src/utilities.js",
+		"/Volumes/Data/PROJECTZ/TensorFlow/RealTimeObjectDetectionTFJSReact/src/App.js",
+		"/Volumes/Data/PROJECTZ/TensorFlow/RealTimeObjectDetectionTFJSReact/src/index.js",
+		"/Volumes/Data/PROJECTZ/TensorFlow/RealTimeObjectDetectionTFJSReact/public/index.html",
+		"/Users/codezcracker/Desktop/untitled.js",
+		"/Volumes/Data/PROJECTZ/Umar Bhai/Dairy Cow New/dairy-web-app/client/src/components/Landing.js",
+		"/Volumes/Data/PROJECTZ/karate-kid/src/App.js",
+		"/Volumes/Data/PROJECTZ/karate-kid/src/components/layouts/header.jsx",
+		"/Volumes/Data/PROJECTZ/karate-kid/src/components/layouts/footer.jsx",
+		"/Volumes/Data/PROJECTZ/karate-kid/src/components/layouts/authenticated_menu.jsx",
+		"/Volumes/Data/PROJECTZ/karate-kid/src/components/layouts/avatar.jsx",
+		"/Volumes/Data/PROJECTZ/karate-kid/src/components/constants/index.jsx",
+		"/Volumes/Data/info.txt",
+		"/Users/codezcracker/Desktop/Desktop/index.html",
+		"/Volumes/Data/PROJECTZ/Umar Bhai/Dairy Cow New/dairy-web-app/client/src/components/Header.js",
+		"/Volumes/Data/PROJECTZ/Umar Bhai/Dairy Cow New/dairy-web-app/client/src/components/App.js",
+		"/Volumes/Data/PROJECTZ/PUKAAR/Markup/index.html",
+		"/Users/codezcracker/Desktop/arham.html",
+		"/Users/codezcracker/Desktop/test/css/style.css",
+		"/Users/codezcracker/Desktop/Logo-files/Innovativebugs-2.svg",
+		"/Users/codezcracker/Desktop/test/css/reset.min.css",
+		"/Users/codezcracker/Desktop/test/index.html",
+		"/Users/codezcracker/Desktop/test/js/mCustom.js",
+		"/Users/codezcracker/Desktop/emirates.svg",
+		"/Users/codezcracker/Desktop/lll/1x/Asset 3-8.png",
+		"/Users/codezcracker/Desktop/SVG/Asset 1.svg",
+		"/Users/codezcracker/Desktop/sad-1.svg",
+		"/Users/codezcracker/Desktop/Untitled-1.svg",
+		"/Users/codezcracker/Desktop/CS301 Assignment No.1 2020.cpp",
+		"/Volumes/Data/PROJECTZ/nodejs/learn-node/app.js",
+		"/Volumes/Data/PROJECTZ/danish/Task1_login/app.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/src/styles/styles.scss",
+		"/Users/codezcracker/Desktop/login.html",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/pages/index.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/next.config.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/pages/get-azan-time.js",
+		"/Volumes/Data/PROJECTZ/README.md",
+		"/Volumes/Data/PROJECTZ/index.js--.js",
+		"/Volumes/Data/PROJECTZ/wplink/pages/index.js",
+		"/Volumes/Data/PROJECTZ/wplink/pages/_app.js",
+		"/Volumes/Data/PROJECTZ/wplink/.git/config",
+		"/Volumes/Data/PROJECTZ/wpScrapping/.git/config",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/.git/config",
+		"/Volumes/Data/PROJECTZ/wpScrapping/README.md",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/config/header-config.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/pages/iframe-widget.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/pages/_app.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/styles/styles.scss",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/styles/mixins.scss",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/styles/main.scss",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/styles/reset.scss",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/pages/footer.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/pages/main.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/pages/header.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/pages/sound.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/api/hello.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/pages/api/hello.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/pages/config/header-config.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/pages/header-config.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/pages/CustomTime.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/pages/index--.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/pages/index copy.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/pages/Seconds.js",
+		"/Users/codezcracker/Desktop/Tariq/index.html",
+		"/Volumes/Data/PROJECTZ/Visual Music/music-visualizer/script.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/node_modules/current-location/whereami",
+		"/Volumes/Data/PROJECTZ/adhan-js/example.html",
+		"/Volumes/Data/PROJECTZ/adhan-js/a.js",
+		"/Volumes/Data/PROJECTZ/Khilafat/khilafat/.babelrc",
+		"/Volumes/Data/COURSEZ/JavaScript ES6/Downloaded Course/2-JS-basics/starter/index.html",
+		"/Users/codezcracker/Downloads/mail.svg",
+		"/Users/codezcracker/Downloads/APPROVE.svg",
+		"/Users/codezcracker/Desktop/Spring 2020_CS202_3/BC160202380.html",
+		"/Users/codezcracker/Desktop/Spring 2020_CS202_3/assignmentFile.html",
+		"/Users/codezcracker/Desktop/CS506_VU_ACADEMY/web/index.html",
+		"/Users/codezcracker/Desktop/CS506_VU_ACADEMY/web/info.html",
+		"/Users/codezcracker/Desktop/CS506_VU_ACADEMY/build.xml",
+		"/Users/codezcracker/Desktop/Web development/html1/home-page.html",
+		"/Users/codezcracker/Desktop/CS101 BC160202380.cpp",
+		"/Users/codezcracker/Desktop/bc160202378.html",
+		"/Volumes/Data/PROJECTZ/PUKAAR/Markup/css/animation.css",
+		"/Users/codezcracker/Desktop/Web development/intro/index.html",
+		"/Users/codezcracker/Desktop/Web development/intro/into.txt",
+		"/Volumes/Data/PROJECTZ/PUKAAR/Markup/css/custom.css",
+		"/Volumes/Data/PROJECTZ/PUKAAR/Markup/css/responsive.css",
+		"/Volumes/Data/PROJECTZ/PUKAAR/Markup/css/reset.css",
+		"/Users/codezcracker/Desktop/Web development/intro/f.svg",
+		"/Users/codezcracker/Desktop/Assignment CS201 3.cpp",
+		"/Users/codezcracker/Downloads/iconfinder-icon (3).svg",
+		"/Volumes/Data/VU/IT430 Assignment2.html",
+		"/Volumes/Data/VU/BC160202379.html",
+		"/Volumes/Data/VU/SPRING 2020_CS506_2_BC160202380/DbHelper.java",
+		"/Volumes/Data/VU/CS506 Assignment No. 2 Source Code and Database by VU ACADEMY/bc160202380/DbHelper.java",
+		"/Volumes/Data/VU/CS506 Assignment No. 2 Source Code and Database by VU ACADEMY/bc160202380/DebitCard.java",
+		"/Volumes/Data/VU/CS506 Assignment No. 2 Source Code and Database by VU ACADEMY/bc160202380/MainClass.java",
+		"/Volumes/Data/VU/CS506 Assignment No. 2 Source Code and Database by VU ACADEMY/DbHelper.java",
+		"/Volumes/Data/VU/CS506 Assignment No. 2 Source Code and Database by VU ACADEMY/DebitCard.java",
+		"/Volumes/Data/VU/CS506 Assignment No. 2 Source Code and Database by VU ACADEMY/MainClass.java",
+		"/Volumes/Data/VU/CS506 Assignment No. 2 Source Code and Database by VU ACADEMY/BC090402315.accdb",
+		"/Users/codezcracker/Downloads/iconfinder_UI_Basic_GLYPH-73_4733351.svg",
+		"/Users/codezcracker/Desktop/CS301 Assignment.cpp",
+		"/Users/codezcracker/Desktop/cs201 solution.cpp",
+		"/Users/codezcracker/Desktop/excel.html",
+		"/Users/codezcracker/Desktop/excel.js",
+		"/Users/codezcracker/Desktop/table-sample.html",
+		"/Volumes/Data/COURSEZ/JavaScript ES6/My Work/battery status.js",
+		"/Users/codezcracker/Desktop/IE-Arabic-Vibration.js",
+		"/Users/codezcracker/Desktop/a.js",
+		"/Users/codezcracker/Desktop/wwwwwwww.html",
+		"/Volumes/Data/COURSEZ/JavaScript ES6/My Work/Bmi Calculator/script.js",
+		"/Volumes/Data/PROJECTZ/Furqan bhai/gigalixir-web 3-march-2020/src/AppList.tsx",
+		"/Volumes/Data/PROJECTZ/Furqan bhai/gigalixir-web 3-march-2020/src/AppHeader.tsx",
+		"/Volumes/Data/PROJECTZ/Furqan bhai/gigalixir-web 3-march-2020/src/index.css",
+		"/Volumes/Data/PROJECTZ/Furqan bhai/gigalixir-web 3-march-2020/src/AppLayout.tsx",
+		"/Volumes/Data/PROJECTZ/Furqan bhai/gigalixir-web 3-march-2020/src/App.tsx"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 163.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"MenuItemLink",
+				"node_modules/webpack-manifest-plugin/node_modules/fs-extra/lib/ensure/symlink-type.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 5
+	}
+}
