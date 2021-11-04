@@ -11,6 +11,7 @@ body{
 .header{
     background: #5edcf3;
     width: 80%;
+    height: 30px;
     margin: 40px 10% 0 10%;
     padding: 20px 0 20px 0;
 }
@@ -21,7 +22,8 @@ body{
     background: #d7c9e3;
     margin: 10px 0 0 10%;
     padding: 20px 0 180px 0;
-    width: 300px;
+    width: 35%;
+    height: 40px;
     float: left;
 }
 .her{
@@ -32,7 +34,8 @@ body{
     float: right;
     margin: 10px 10% 0 0;
     padding: 20px 0 260px 0;
-    width: 515px;
+    width: 44%;
+    height: 150px;
 }
 .heading{
     font-size: 25px;
@@ -46,7 +49,8 @@ body{
     background: #9fc363;
     margin: 10px 0 0 10%;
     padding: 20px 0 250px 0;
-    width: 300px;
+    width: 35%;
+    height: 70px;
     float: left;
 }
 .bar{
@@ -55,7 +59,7 @@ body{
 .extra{
     background: #898989;
     float: right;
-    width: 515px;
+    width: 44%;
     margin: 10px 10% 0 0;
     padding: 20px 0 100px 0;
 }
@@ -65,7 +69,8 @@ body{
 .images{
     background: #29b872;
     float: left;
-    width: 515px;
+    width: 44%;
+    height: 20px;
     margin: 10px 0 0 10%;
     padding: 20px 0 100px 0;
 }
@@ -77,7 +82,8 @@ body{
     float: right;
     margin: 10px 10% 0 0;
     padding: 20px 0 100px 0;
-    width: 300px;
+    width: 35%;
+    height: 20px;
 }
 .pst{
     font-size: 25px;
@@ -85,7 +91,8 @@ body{
 .foot{
     background: #ffa502;
     width: 80%;
-    margin: 720px 10% 0 10%;
+    height: 30px;
+    margin: 760px 10% 0 10%;
     text-align: center;
     padding: 20px 0 20px 0;
 }
