@@ -1,68 +1,94 @@
-<<<<<<< HEAD
 body{
-    padding: 0px;
-    margin: 0px;
+    margin: 0;
+    padding: 0;
 }
-.nev{
-    background: brown;
+*{
+    color: white;
+    font-family: verdana;
+    text-align: center;
+    text-decoration: none;
 }
-.logo {
+.header{
+    background: #5edcf3;
+    width: 80%;
+    margin: 40px 10% 0 10%;
+    padding: 20px 0 20px 0;
+}
+.head{
+    font-size: 25px;
+}
+.main{
+    background: #d7c9e3;
+    margin: 10px 0 0 10%;
+    padding: 20px 0 180px 0;
+    width: 300px;
     float: left;
-    display: inline-block;
-    margin-left: 200px;
 }
-.list{
-    display: inline-block;
-    margin: 0px;
-    padding: 0px;
-    list-style: none;
+.her{
+    font-size: 25px;
 }
-.cart{
+.content{
+    background: #f5c631;
     float: right;
-    display: inline-block;
-    background: yellow;
-    margin-right: 200px;
+    margin: 10px 10% 0 0;
+    padding: 20px 0 260px 0;
+    width: 515px;
 }
-=======
-
-body{
+.heading{
+    font-size: 25px;
+    display: block;
+    padding: 0 0 30px 0;
 }
-ul{
-	list-style: none;
-	padding: 0;
-	margin: 0;
+.par{
+    font-size: 10px;
 }
-li{
-	float: left;
-	height: 50px;
-	width: 50%;
-	background: #aaa;
-	border: 1px solid #000;
-	padding: 50px;
-	margin: 10px;
+.side{
+    background: #9fc363;
+    margin: 10px 0 0 10%;
+    padding: 20px 0 250px 0;
+    width: 300px;
+    float: left;
 }
-
-
-.a{
-	background: red;
+.bar{
+    font-size: 25px;
 }
-.b{
-	background: orange;
+.extra{
+    background: #898989;
+    float: right;
+    width: 515px;
+    margin: 10px 10% 0 0;
+    padding: 20px 0 100px 0;
 }
-.c{
-	background: green;
+.cont{
+    font-size: 25px;
 }
-.d{
-	background: blue;
+.images{
+    background: #29b872;
+    float: left;
+    width: 515px;
+    margin: 10px 0 0 10%;
+    padding: 20px 0 100px 0;
 }
-
-
-
-a{
-	display: block;
-	border-top: 2px solid #555;
-	display: inline-block;
+.ges{
+    font-size: 25px;
 }
-
-
->>>>>>> 1e723d57a73eb33378fed72d0d8a90e7ec97247f
+.post{
+    background: #f3ccde;
+    float: right;
+    margin: 10px 10% 0 0;
+    padding: 20px 0 100px 0;
+    width: 300px;
+}
+.pst{
+    font-size: 25px;
+}
+.foot{
+    background: #ffa502;
+    width: 80%;
+    margin: 720px 10% 0 10%;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+.feet{
+    font-size: 25px;
+}
