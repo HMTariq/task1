@@ -1,101 +1,209 @@
 body{
-    margin: 0;
-    padding: 0;
+	text-align: center;
+	font-size: 20px;
+	line-height: 23px;
+	margin: 10px;
+	color: #fff;
 }
-*{
-    color: white;
-    font-family: verdana;
-    text-align: center;
-    text-decoration: none;
+.header,
+.footer{
+	height: 50px;
 }
 .header{
-    background: #5edcf3;
-    width: 80%;
-    height: 30px;
-    margin: 40px 10% 0 10%;
-    padding: 20px 0 20px 0;
+	background: #5edcf3;
+	margin: 0 0 10px;
+}
+.top-content-holder{
+	margin: 0 0 10px;
+}
+.top-content-holder,
+.bottom-content-holder{
+	overflow: hidden;
+}
+.left-content,
+.right-content{
+	float: left;
+	width: 49.7%;
+}
+.right-content{
+	float: right;
+}
+.hero-block{
+	background: #d7c9e3;
+	height: 240px;
+	margin: 0 0 10px;
+}
+.sidebar{
+	background: #9fc363;
+	height: 340px;
+}
+.main-content-block{
+	background: #f5c631;
+	height: 430px;
+	margin: 0 0 10px;
+}
+.extra-content-block{
+	background: #898989;
+	height: 150px;
+}
+.related-image-block{
+	background: #29b872;
+	height: 140px;
+	width: 70%;
+	float: left;
+}
+.related-post-block{
+	background: #f3ccde;
+	height: 140px;
+	width: 30%;
+	float: right;
+}
+.footer{
+	background: #ffa502;
+	margin: 10px 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body{
+	margin: 0;
+	padding: 0;
+}
+*{
+	color: white;
+	font-family: verdana;
+	text-align: center;
+	text-decoration: none;
+}
+.header{
+	background: #5edcf3;
+	width: 80%;
+	height: 30px;
+	margin: 40px 10% 0 10%;
+	padding: 20px 0 20px 0;
 }
 .head{
-    font-size: 25px;
+	font-size: 25px;
 }
 .main{
-    background: #d7c9e3;
-    margin: 10px 0 0 10%;
-    padding: 20px 0 180px 0;
-    width: 35%;
-    height: 40px;
-    float: left;
+	background: #d7c9e3;
+	margin: 10px 0 0 10%;
+	padding: 20px 0 180px 0;
+	width: 35%;
+	height: 40px;
+	float: left;
 }
 .her{
-    font-size: 25px;
+	font-size: 25px;
 }
 .content{
-    background: #f5c631;
-    float: right;
-    margin: 10px 10% 0 0;
-    padding: 20px 0 260px 0;
-    width: 44%;
-    height: 150px;
+	background: #f5c631;
+	float: right;
+	margin: 10px 10% 0 0;
+	padding: 20px 0 260px 0;
+	width: 44%;
+	height: 150px;
 }
 .heading{
-    font-size: 25px;
-    display: block;
-    padding: 0 0 30px 0;
+	font-size: 25px;
+	display: block;
+	padding: 0 0 30px 0;
 }
 .par{
-    font-size: 10px;
+	font-size: 10px;
 }
 .side{
-    background: #9fc363;
-    margin: 10px 0 0 10%;
-    padding: 20px 0 250px 0;
-    width: 35%;
-    height: 70px;
-    float: left;
+	background: #9fc363;
+	margin: 10px 0 0 10%;
+	padding: 20px 0 250px 0;
+	width: 35%;
+	height: 70px;
+	float: left;
 }
 .bar{
-    font-size: 25px;
+	font-size: 25px;
 }
 .extra{
-    background: #898989;
-    float: right;
-    width: 44%;
-    margin: 10px 10% 0 0;
-    padding: 20px 0 100px 0;
+	background: #898989;
+	float: right;
+	width: 44%;
+	margin: 10px 10% 0 0;
+	padding: 20px 0 100px 0;
 }
 .cont{
-    font-size: 25px;
+	font-size: 25px;
 }
 .images{
-    background: #29b872;
-    float: left;
-    width: 44%;
-    height: 20px;
-    margin: 10px 0 0 10%;
-    padding: 20px 0 100px 0;
+	background: #29b872;
+	float: left;
+	width: 44%;
+	height: 20px;
+	margin: 10px 0 0 10%;
+	padding: 20px 0 100px 0;
 }
 .ges{
-    font-size: 25px;
+	font-size: 25px;
 }
 .post{
-    background: #f3ccde;
-    float: right;
-    margin: 10px 10% 0 0;
-    padding: 20px 0 100px 0;
-    width: 35%;
-    height: 20px;
+	background: #f3ccde;
+	float: right;
+	margin: 10px 10% 0 0;
+	padding: 20px 0 100px 0;
+	width: 35%;
+	height: 20px;
 }
 .pst{
-    font-size: 25px;
+	font-size: 25px;
 }
 .foot{
-    background: #ffa502;
-    width: 80%;
-    height: 30px;
-    margin: 760px 10% 0 10%;
-    text-align: center;
-    padding: 20px 0 20px 0;
+	background: #ffa502;
+	width: 80%;
+	height: 30px;
+	margin: 760px 10% 0 10%;
+	text-align: center;
+	padding: 20px 0 20px 0;
 }
 .feet{
-    font-size: 25px;
-}
+	font-size: 25px;
+}*/
